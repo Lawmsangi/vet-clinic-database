@@ -48,8 +48,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Key Features <a name="key-features"></a>
 
-
 - **[Animal-table]**
+- **[Update-table]**
 - **[Query-animal]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -109,7 +109,6 @@ Example command:
 
 
 - [ ] **[more_Queries]**
-- [ ] **[update_table]**
 - [ ] **[multiple_tables]**
 - [ ] **[join_tables]**
 
