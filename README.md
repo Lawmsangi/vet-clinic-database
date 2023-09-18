@@ -4,7 +4,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
 
 <a name="readme-top"></a>
 
@@ -28,10 +28,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Vet-Clinic] <a name="vet-clinic"></a>
 
@@ -48,8 +46,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
 
@@ -58,7 +54,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -98,7 +93,6 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -110,11 +104,9 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[more_Queries]**
 - [ ] **[update_table]**
@@ -133,23 +125,17 @@ Feel free to check the [issues page](https://github.com/Lawmsangi/vet-clinic-dat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project consider following me on github to see more projects like this. I will follow you back.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for the project inspiration.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
