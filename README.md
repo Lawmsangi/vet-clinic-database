@@ -51,6 +51,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - **[Animal-table]**
 - **[Update-table]**
 - **[Query-animal]**
+- **[Multiple-table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +110,6 @@ Example command:
 
 
 - [ ] **[more_Queries]**
-- [ ] **[multiple_tables]**
 - [ ] **[join_tables]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
