@@ -6,5 +6,10 @@
     date_of_birth DATE, 
     escape_attempts INTEGER, 
     neutered BOOLEAN, 
-    weight_kg DECIMAL
+    weight_kg DECIMAL,
+    species VARCHAR(255) NOT NULL,
 );
+
+-- Add the "species" column to the "animals" table
+ALTER TABLE animals
+ADD COLUMN species VARCHAR(150);
