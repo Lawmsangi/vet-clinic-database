@@ -86,7 +86,7 @@ SELECT species,MIN(weight_kg),MAX(weight_kg) FROM animals GROUP BY species;
  SELECT species,AVG(escape_attempts) FROM animals WHERE date_of_birth BETWEEN '1990-01-01' AND '2000-01-01' GROUP BY species;
 
 
- --What animals belong to Melody Pond?
+--What animals belong to Melody Pond?
 SELECT owners.full_name,animals.name FROM animals
 INNER JOIN owners
 ON animals.owner_id = owners.id
