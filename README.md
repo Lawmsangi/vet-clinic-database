@@ -50,6 +50,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - **[Update-table]**
 - **[Query-animal]**
 - **[Multiple-table]**
+- **[Join-table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,9 +107,8 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
 - [ ] **[more_Queries]**
-- [ ] **[join_tables]**
+- [ ] **[more_tables]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
