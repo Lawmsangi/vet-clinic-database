@@ -97,3 +97,5 @@ FOREIGN KEY (animal_id) REFERENCES animals (id);
 
 ALTER TABLE animals
 ADD PRIMARY KEY (id);
+
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
